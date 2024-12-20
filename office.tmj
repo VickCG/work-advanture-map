@@ -1,4 +1,12 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "format":"json",
+         "target":"office..tmj"
+        }
+    },
  "height":21,
  "infinite":false,
  "layers":[
@@ -576,7 +584,7 @@
          "y":0
         }],
  "nextlayerid":63,
- "nextobjectid":32,
+ "nextobjectid":33,
  "orientation":"orthogonal",
  "properties":[
         {
