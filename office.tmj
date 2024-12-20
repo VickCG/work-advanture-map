@@ -471,9 +471,9 @@
                  "y":544
                 }, 
                 {
-                 "height":32,
+                 "height":64,
                  "id":20,
-                 "name":"bot",
+                 "name":"ai-zone",
                  "properties":[
                         {
                          "name":"start",
@@ -483,7 +483,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":32,
+                 "width":64,
                  "x":300,
                  "y":300
                 }, 
@@ -499,9 +499,9 @@
                     },
                  "type":"",
                  "visible":true,
-                 "width":80.234375,
-                 "x":270.549479166667,
-                 "y":305.244791666667
+                 "width":32.234375,
+                 "x":315.8828125,
+                 "y":318.578125
                 }],
          "opacity":1,
          "type":"objectgroup",
